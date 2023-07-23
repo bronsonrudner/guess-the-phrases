@@ -1,0 +1,30 @@
+Algebra
+Geometry
+Calculus
+Trigonometry
+Combinatorics
+Graph theory
+Number theory
+Topology
+Set theory
+Probability
+Statistics
+Matrix algebra
+Boolean algebra
+Differential equations
+Multivariate calculus
+Vector calculus
+Linear algebra
+Group theory
+Ring theory
+Field theory
+Game theory
+Fourier analysis
+Laplace transform
+Z-transform
+Taylor series
+Maclaurin series
+Binomial theorem
+Quadratic formula
+Cauchy-Schwarz inequality
+Pythagorean theorem

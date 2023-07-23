@@ -1,0 +1,20 @@
+Pizza
+Hamburger
+Sushi
+Chocolate
+Coffee
+Ice cream
+Pancakes
+Smoothie
+Nachos
+Pasta
+Steak
+Curry
+Tacos
+Lobster
+Cupcake
+Lemonade
+Popcorn
+Dumplings
+Mojito
+Croissant
